@@ -1,2 +1,2 @@
 # GuessTheNumber-qtapp
-Guess the Number app made with QT6
+Guess the Number made with QT6
